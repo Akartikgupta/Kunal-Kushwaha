@@ -1,5 +1,5 @@
 // Approach 
-// We use the Xor Operation to get the unique numbern
+// We use the Xor Operation to get the unique number
 
 import java.util.Scanner;
 
