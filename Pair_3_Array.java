@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class Pair_3_Array {
